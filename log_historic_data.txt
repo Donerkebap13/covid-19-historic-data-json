@@ -1,2 +1,4 @@
-No ISO: Others
-No ISO: Cruise Ship
+Traceback (most recent call last):
+  File "covid19_data_retriever_PROD.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
