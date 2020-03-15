@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 covid19_data_retriever_PROD.py
+/Library/Frameworks/Python.framework/Versions/3.7/bin/python3 covid19_data_retriever_PROD.py
 
 git add .
 
