@@ -8,3 +8,16 @@ No ISO: Republic of the Congo
 No ISO: Tanzania
 No ISO: The Bahamas
 No ISO: The Gambia
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   log_historic_data.txt
+
+[master 917d2f5] Automatic Update
+ 1 file changed, 10 insertions(+), 25 deletions(-)
+ rewrite log_historic_data.txt (70%)
+To github.com:Donerkebap13/covid-19-historic-data-json.git
+   ba478bb..917d2f5  master -> master
