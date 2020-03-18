@@ -4,3 +4,7 @@ No ISO: Venezuela
 No ISO: Curacao
 No ISO: Kosovo
 No ISO: Congo (Brazzaville)
+No ISO: Tanzania
+No ISO: The Bahamas
+No ISO: The Gambia
+No ISO: Republic of the Congo
