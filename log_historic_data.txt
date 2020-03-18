@@ -4,22 +4,7 @@ No ISO: Venezuela
 No ISO: Curacao
 No ISO: Kosovo
 No ISO: Congo (Brazzaville)
+No ISO: Republic of the Congo
 No ISO: Tanzania
 No ISO: The Bahamas
 No ISO: The Gambia
-No ISO: Republic of the Congo
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	modified:   covid19_historic_data_PROD.json
-	modified:   log_historic_data.txt
-	modified:   used_dates_PROD.json
-
-[master 78c8f73] Automatic Update
- 3 files changed, 6 insertions(+), 2 deletions(-)
- rewrite covid19_historic_data_PROD.json (90%)
-To github.com:Donerkebap13/covid-19-historic-data-json.git
-   6955c41..78c8f73  master -> master
