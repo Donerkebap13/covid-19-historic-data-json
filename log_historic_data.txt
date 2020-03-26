@@ -7,15 +7,3 @@ No ISO: East Timor
 No ISO: Syria
 No ISO: Laos
 No ISO: Diamond Princess
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-	modified:   log_historic_data.txt
-
-no changes added to commit
-Everything up-to-date
