@@ -45,7 +45,7 @@ Traceback (most recent call last):
     method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
   File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Gius-8/COVID-19-JSON/master/csse_covid_19_daily_reports_json/07-21-2020.json (Caused by SSLError(SSLError("bad handshake: SysCallError(54, 'ECONNRESET')")))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Gius-8/COVID-19-JSON/master/csse_covid_19_daily_reports_json/06-23-2020.json (Caused by SSLError(SSLError("bad handshake: SysCallError(54, 'ECONNRESET')")))
 
 During handling of the above exception, another exception occurred:
 
@@ -66,4 +66,4 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
     raise SSLError(e, request=request)
-requests.exceptions.SSLError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Gius-8/COVID-19-JSON/master/csse_covid_19_daily_reports_json/07-21-2020.json (Caused by SSLError(SSLError("bad handshake: SysCallError(54, 'ECONNRESET')")))
+requests.exceptions.SSLError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Gius-8/COVID-19-JSON/master/csse_covid_19_daily_reports_json/06-23-2020.json (Caused by SSLError(SSLError("bad handshake: SysCallError(54, 'ECONNRESET')")))
